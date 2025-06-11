@@ -1,4 +1,4 @@
 Hellow World!
-This is Specter learning about git and Web Development
+This is Specter learning about git and Web Development from THE ODIN PROJECT.
 My name is Specter. I'm a First year student of Computer Science and Engineering , enroll
 in it's B.Tech program in Indian Institute of Information Technology Raichur.
